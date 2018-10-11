@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test" />
+    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test">
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="db_credentials.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="db_credentials.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -26,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -134,6 +136,11 @@
               <item name="globe_bank" type="b2602c69:ProjectViewProjectNode" />
               <item name="globe_bank" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="globe_bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="globe_bank" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,16 +194,15 @@
       <workItem from="1538631757588" duration="675000" />
       <workItem from="1538636708061" duration="9234000" />
       <workItem from="1539002622257" duration="15858000" />
-      <workItem from="1539248807933" duration="6900000" />
+      <workItem from="1539248807933" duration="7068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77880000" />
+    <option name="totallyTimeSpent" value="78048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
@@ -586,6 +592,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/installed.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -593,16 +609,6 @@
           <folding>
             <element signature="e#7#42#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/composer/installed.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
