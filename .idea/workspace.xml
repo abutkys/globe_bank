@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-    </list>
+    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,12 +159,12 @@
       <workItem from="1538631757588" duration="675000" />
       <workItem from="1538636708061" duration="9234000" />
       <workItem from="1539002622257" duration="15858000" />
-      <workItem from="1539248807933" duration="2919000" />
+      <workItem from="1539248807933" duration="3283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73899000" />
+    <option name="totallyTimeSpent" value="74263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -178,8 +175,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" x="18" y="508" width="1238" height="239" id="Terminal" internal_type="SLIDING" order="11" type="SLIDING" weight="0.32965517" />
-      <window_info active="true" anchor="right" content_ui="combo" x="572" y="75" width="250" height="725" id="Project" order="4" visible="true" weight="0.20436187" />
+      <window_info active="true" anchor="bottom" x="18" y="508" width="1238" height="239" id="Terminal" internal_type="SLIDING" order="11" type="SLIDING" visible="true" weight="0.8593103" />
+      <window_info anchor="right" content_ui="combo" x="572" y="75" width="250" height="725" id="Project" order="4" visible="true" weight="0.20436187" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
