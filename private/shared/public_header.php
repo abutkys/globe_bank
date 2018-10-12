@@ -14,6 +14,10 @@
           <img src="<?php echo url_index('public/images/gbi_logo.png'); ?>" width="298" height="71" alt="" />
         </a>
       </h1>
+	    <p>URL_FOR :---<?php echo url_for('public/stylesheets/public.css'); ?>---</p>
+	    <br>
+	    <br>
+	    <br>
 	    <p>URL_INDEX :---<?php echo url_index('public/images/gbi_logo.png'); ?>---</p>
 	    <br>
 	    <br>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test">
-      <change beforePath="$PROJECT_DIR$/private/db_credentials.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/db_credentials.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/private/shared/public_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/shared/public_header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="public_header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="100" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="100" />
+            <state relative-caret-position="384">
+              <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -50,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initialize.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="initialize.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/private/initialize.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -68,11 +67,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db_credentials.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="db_credentials.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="5" selection-end-column="34" />
+              <folding>
+                <element signature="e#7#42#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -262,16 +264,15 @@
       <workItem from="1538636708061" duration="9234000" />
       <workItem from="1539002622257" duration="15858000" />
       <workItem from="1539248807933" duration="12095000" />
-      <workItem from="1539277151151" duration="4921000" />
+      <workItem from="1539277151151" duration="5249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87996000" />
+    <option name="totallyTimeSpent" value="88324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
@@ -279,8 +280,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" x="18" y="508" width="1238" height="239" id="Terminal" internal_type="SLIDING" order="11" type="SLIDING" weight="0.3613793" />
-      <window_info active="true" anchor="right" content_ui="combo" x="572" y="75" width="250" height="725" id="Project" order="4" visible="true" weight="0.20193861" />
+      <window_info active="true" anchor="bottom" x="18" y="508" width="1238" height="239" id="Terminal" internal_type="SLIDING" order="11" type="SLIDING" visible="true" weight="0.3613793" />
+      <window_info anchor="right" content_ui="combo" x="572" y="75" width="250" height="725" id="Project" order="4" visible="true" weight="0.20193861" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
@@ -614,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/private/shared/static_homepage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -632,13 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="100" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="100" />
         </state>
       </provider>
     </entry>
@@ -658,6 +645,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#7#42#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
