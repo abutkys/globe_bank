@@ -204,3 +204,8 @@ a.learnmore {
 a.learnmore:hover {
   text-decoration: underline
 }
+
+button {
+  float: right;
+  margin-top: -1em;
+}

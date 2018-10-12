@@ -38,12 +38,10 @@ if(is_post_request()) {
 $page_count = count_pages_by_subject_id($page['subject_id']);
 
 ?>
-
 <?php $page_title = 'Edit Page'; ?>
 <?php include(SHARED_PATH . '/staff_header.php'); ?>
 
 <div id="content">
-
   <a class="back-link" href="<?php echo url_for('/staff/subjects/show.php?id=' . h(u($page['subject_id']))); ?>">&laquo; Back to Subject</a>
 
   <div class="page edit">

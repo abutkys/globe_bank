@@ -15,8 +15,11 @@ include(SHARED_PATH . '/staff_header.php'); ?>
   <div class="page show">
 
     <h1>Page: <?php echo h($page['menu_name']); ?></h1>
+	  <br>
+<!--	  --><?php //echo url_index('index.php?id=' . h(u($page['id'])) . '&preview=true')?>
+	  <br>
 	  <div class="actions">
-		  <a class="action" href = "<?php echo url_for('/index.php?id=' . h(u($page['id'])) . '&preview=true')?>" target="_blank">Preview</a>
+		  <a class="action" href = "<?php echo url_index('index.php?id=' . h(u($page['id'])) . '&preview=true')?>" target="_blank">Preview</a>
 	  </div>
 
     <div class="attributes">

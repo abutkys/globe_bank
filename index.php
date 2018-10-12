@@ -38,10 +38,8 @@
 <?php include(SHARED_PATH.'/public_header.php'); ?>
 
 <div id="main">
-	
 	<?php include(SHARED_PATH.'/public_navigation.php'); ?>
   <div id="page">
-	  
 	  <?php if(isset($page)) {
 	  	$allowed_tags = '<div><img><h1><h2><p><br><strong><em><ul><li>';
 	  	echo strip_tags($page['content'], $allowed_tags);
@@ -50,12 +48,7 @@
 	  }
 
 	   ?>
-	
-
-
-	  
   </div>
-
 </div>
 
 <?php include(SHARED_PATH.'/public_footer.php'); ?>

@@ -8,6 +8,13 @@ function url_for($script_path) {
   return WWW_ROOT . $script_path;
 }
 
+function url_index($script_path){
+	if($script_path[0] != '/') {
+		$script_path = "" . $script_path;
+	}
+	return WWW_INDEX . $script_path;
+}
+
 function u($string="") {
   return urlencode($string);
 }
