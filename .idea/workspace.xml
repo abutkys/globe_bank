@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test">
-      <change beforePath="$PROJECT_DIR$/private/initialize.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/initialize.php" afterDir="false" />
-    </list>
+    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
-              <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="24" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -49,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initialize.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="initialize.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/private/initialize.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
@@ -58,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_homepage.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="static_homepage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/private/shared/static_homepage.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -136,8 +134,8 @@
         <option value="$PROJECT_DIR$/public/stylesheets/staff.css" />
         <option value="$PROJECT_DIR$/public/stylesheets/public.css" />
         <option value="$PROJECT_DIR$/private/db_credentials.php" />
-        <option value="$PROJECT_DIR$/private/shared/public_header.php" />
         <option value="$PROJECT_DIR$/private/initialize.php" />
+        <option value="$PROJECT_DIR$/private/shared/public_header.php" />
       </list>
     </option>
   </component>
@@ -264,12 +262,12 @@
       <workItem from="1538636708061" duration="9234000" />
       <workItem from="1539002622257" duration="15858000" />
       <workItem from="1539248807933" duration="12095000" />
-      <workItem from="1539277151151" duration="5744000" />
+      <workItem from="1539277151151" duration="6397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88819000" />
+    <option name="totallyTimeSpent" value="89472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -615,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/private/shared/static_homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -651,17 +642,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/private/initialize.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="24" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/shared/static_homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
