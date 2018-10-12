@@ -14,6 +14,10 @@
           <img src="<?php echo url_index('public/images/gbi_logo.png'); ?>" width="298" height="71" alt="" />
         </a>
       </h1>
-	    <?php echo url_index('public/images/gbi_logo.png'); ?>
+	    <p>URL_INDEX :---<?php echo url_index('public/images/gbi_logo.png'); ?>---</p>
+	    <br>
+	    <br>
+	    <br>
+	    <p>Script name :---<?php echo $_SERVER['SCRIPT_NAME'];?>---</p>
 	    <button><a class="login" href = "<?php echo url_index('public/staff/login.php') ?>">Log in</a></button>
     </header>
