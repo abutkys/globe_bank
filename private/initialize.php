@@ -21,8 +21,8 @@
   $doc_root = substr($_SERVER['SCRIPT_NAME'], 0, $public_end);
   define("WWW_ROOT", $doc_root);
   
-  $index_end = strpos($_SERVER['SCRIPT_NAME'], '/index') + 12;
-  $doc_rooti = substr($_SERVER['SCRIPT_NAME'], 6, $index_end);
+  $index_end = strpos($_SERVER['SCRIPT_NAME'], '/index.php') + 12;
+  $doc_rooti = substr($_SERVER['SCRIPT_NAME'], 10, $index_end);
   define("WWW_INDEX", $doc_rooti);
 
   require_once('functions.php');
