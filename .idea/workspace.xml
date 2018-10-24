@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test" />
+    <list default="true" id="d8668877-58f2-4b77-8b4f-9024e2aa39d7" name="Default" comment="test">
+      <change beforePath="$PROJECT_DIR$/private/db_credentials.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/db_credentials.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/staff/admins/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -45,8 +47,8 @@
       <file leaf-file-name="db_credentials.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="216">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
                 <element signature="e#7#65#0#PHP" expanded="true" />
               </folding>
@@ -63,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/staff/admins/edit.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
@@ -125,12 +127,12 @@
         <option value="$PROJECT_DIR$/public/stylesheets/public.css" />
         <option value="$PROJECT_DIR$/private/initialize.php" />
         <option value="$PROJECT_DIR$/private/shared/public_header.php" />
-        <option value="$PROJECT_DIR$/private/db_credentials.php" />
         <option value="$PROJECT_DIR$/public/staff/admins/index.php" />
         <option value="$PROJECT_DIR$/public/staff/admins/new.php" />
         <option value="$PROJECT_DIR$/public/staff/admins/show.php" />
         <option value="$PROJECT_DIR$/public/staff/admins/delete.php" />
         <option value="$PROJECT_DIR$/public/staff/admins/edit.php" />
+        <option value="$PROJECT_DIR$/private/db_credentials.php" />
       </list>
     </option>
   </component>
@@ -259,15 +261,16 @@
       <workItem from="1539002622257" duration="15858000" />
       <workItem from="1539248807933" duration="12095000" />
       <workItem from="1539277151151" duration="7067000" />
-      <workItem from="1540369713603" duration="2335000" />
+      <workItem from="1540369713603" duration="2572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92477000" />
+    <option name="totallyTimeSpent" value="92714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
@@ -275,8 +278,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" x="18" y="508" width="1238" height="239" id="Terminal" internal_type="SLIDING" order="11" type="SLIDING" visible="true" weight="0.3613793" />
-      <window_info anchor="right" content_ui="combo" x="572" y="75" width="250" height="725" id="Project" order="4" visible="true" weight="0.20516963" />
+      <window_info anchor="bottom" x="18" y="508" width="1238" height="239" id="Terminal" internal_type="SLIDING" order="11" type="SLIDING" weight="0.3613793" />
+      <window_info active="true" anchor="right" content_ui="combo" x="572" y="75" width="250" height="725" id="Project" order="4" visible="true" weight="0.20516963" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
@@ -615,23 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="e#7#65#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/admins/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/staff/admins/new.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -646,6 +632,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/staff/admins/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/staff/admins/delete.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -653,10 +646,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/admins/edit.php">
+    <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="216">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#7#65#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/staff/admins/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
