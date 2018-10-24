@@ -6,8 +6,8 @@ define("DB_PASS", "188cd231");
 define("DB_NAME", "heroku_99e04e93b6c6b26");
 
 //define("DB_SERVER", "localhost");
-//define("DB_USER", "secretuser");
-//define("DB_PASS", "password");
-//define("DB_NAME", "globe_bk");
+//define("DB_USR", "user");
+//define("DB_PAS", "password");
+//define("DB_NAME", "globe_bank");
 
 ?>
