@@ -14,7 +14,7 @@
           <img src="<?php echo url_index('public/images/gbi_logo.png'); ?>" width="298" height="71" alt="" />
         </a>
       </h1>
-<!--	    <p>URL_FOR :-----><?php //echo url_for('public/stylesheets/public.css'); ?><!-----</p>-->
+<!--	    <p>URL_FOR :-----><?php //echo url_for('public.css'); ?><!-----</p>-->
 <!--	    <br>-->
 <!--	    <br>-->
 <!--	    <br>-->
@@ -23,5 +23,6 @@
 <!--	    <br>-->
 <!--	    <br>-->
 <!--	    <p>Script name :-----><?php //echo $_SERVER['SCRIPT_NAME'];?><!-----</p>-->
+<!--	    <p>Index :-----><?php //echo WWW_INDEX;?><!-----</p>-->
 	    <button><a class="login" href = "<?php echo url_index('public/staff/login.php') ?>">Log in</a></button>
     </header>
